@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/laberinto-escape',
+  basePath: '/Laberinto-feel',
   typescript: {
     ignoreBuildErrors: true,
   },
